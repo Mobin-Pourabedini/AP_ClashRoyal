@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f73d61d-dc13-4fb1-b3ec-04d7a4489ae3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClashRoyal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/MyUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/CardTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Castle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ClashRoyal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/FieldLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/SpellCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/TroopCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/GameMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ProfileMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ShopMenu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NuyRtsw92TkeSxEkNUo7QVX2Er" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mobin/IdeaProjects/ClashRoyal/src/exout.txt",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "two.files.diff.last.used.file": "C:/Users/mobin/IdeaProjects/ClashRoyal/src/exout.txt",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="myTest.f" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClashRoyal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="f" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.myTest.f" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f73d61d-dc13-4fb1-b3ec-04d7a4489ae3" name="Changes" comment="" />
+      <created>1680528259527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680528259527</updated>
+      <workItem from="1680528260899" duration="880000" />
+      <workItem from="1680529250914" duration="4004000" />
+      <workItem from="1680591398021" duration="13526000" />
+      <workItem from="1680619861487" duration="7172000" />
+      <workItem from="1680674931055" duration="1614000" />
+      <workItem from="1680676579850" duration="3371000" />
+      <workItem from="1680680413621" duration="5403000" />
+      <workItem from="1680685870611" duration="1093000" />
+      <workItem from="1680693216981" duration="4013000" />
+      <workItem from="1680697271589" duration="11163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/LoginMenu.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controller/LoginController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ClashRoyal$Main.ic" NAME="Main Coverage Results" MODIFIED="1680697484495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
